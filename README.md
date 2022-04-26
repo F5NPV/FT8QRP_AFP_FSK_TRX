@@ -4,6 +4,16 @@ The TRX is able to use RTTY mode.
 
 PSK31 Mode is not available
 
+all gerber and design are located  hereafter:
+
+https://easyeda.com/F5NPV/qrp_ft8_arduino_trx_v2
+ 
+https://easyeda.com/F5NPV/ft8qrp-top
+ 
+https://easyeda.com/F5NPV/ft8qrp-lpf_copy_copy_copy
+ 
+https://easyeda.com/F5NPV/ft8qrp-lpf
+
 2 release are presented in this webpage:
 
 An analog design using a cheap CD2003 chip
